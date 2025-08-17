@@ -1,7 +1,9 @@
 # RGBD-6DOF
 
+
 ### PIPELINE
-- [ ] Object-Detection
+- [x] Object-Detection
+- [ ] Object-Detection-Optimization
 - [ ] Pointcloud Extraction
 - [ ] Object-Reconstruction 
 - [ ] Pointcloud Object Segmentation 
